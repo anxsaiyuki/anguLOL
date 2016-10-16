@@ -1,3 +1,3 @@
 var indexApp = angular.module('index.app', [
-  server.request
+  'server.request'
   ]);
